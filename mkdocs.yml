@@ -1,0 +1,5 @@
+site_name: Tabs over spaces
+pages:
+- Home: index.md
+- About: about.md
+theme: bootstrap
